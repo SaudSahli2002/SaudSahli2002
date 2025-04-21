@@ -3,7 +3,7 @@
 🎓 I'm a student based in Jeddah, passionate about **Data Science**, **Machine Learning**, **Deep Learning**, and **Computer Vision**  
 🌱 I'm currently learning and building projects using Python, OpenCV, and TensorFlow  
 📫 You can reach me on:  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](www.linkedin.com/in/saud-sahli-4a53142a1)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saud-sahli)  
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white)](mailto:SaudSahli2002@gmail.com)
 
 ---
